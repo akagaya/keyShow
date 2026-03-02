@@ -147,7 +147,7 @@ class OverlayWindow:
 
     # ── 外観（実行中に変更可能） ─────────────────────────────
     bar_bg = "#111111"
-    bar_alpha = 0.8
+    bar_alpha = 0.6
     key_fg = "#ffffff"
     mod_inactive_bg = "#2a2a2a"
     mod_inactive_fg = "#666666"
